@@ -50,7 +50,7 @@ A production-ready cryptocurrency trading bot with AI-assisted decision making a
 **Tech Stack:** TypeScript, Node.js, WebSocket, PostgreSQL  
 **Features:**
 - Multiple trading strategies (scalping, mean reversion, trend following)
-- AI engine for trade confirmation (40% decision weight)
+- AI engine for trade confirmation (contributes 40% to final trade decisions)
 - Real-time dashboard with WebSocket updates
 - Risk management and portfolio balancing
 - Leveraged trading with configurable risk parameters
@@ -100,7 +100,7 @@ A personal expense tracking application with mobile-first design.
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [thomas-jamais-0968369a](https://www.linkedin.com/in/thomas-jamais-0968369a/)
+- **LinkedIn:** [Thomas Jamais](https://www.linkedin.com/in/thomas-jamais-0968369a/)
 - **GitHub:** [@thomasjamais](https://github.com/thomasjamais)
 
 ## ⚡ Fun Facts
