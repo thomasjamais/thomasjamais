@@ -1,86 +1,106 @@
 # Hi there, I'm Thomas Jamais 👋
 
-## 💼 Senior Full‑Stack Developer & AI/Blockchain Enthusiast
+## 💼 Senior Backend Developer (Node.js / TypeScript)
 
-I'm a senior developer and freelancer currently collaborating with **VirtualBrain** to build scalable, AI‑driven trading systems and financial applications. Dynamic and open‑minded, I'm eager to amplify my skills in cutting‑edge technologies and rigorous in seeing projects through to completion:contentReference[oaicite:0]{index=0}. With over seven years of experience, I have led teams through transitions from monolithic to event‑driven microservice architectures:contentReference[oaicite:1]{index=1}. I specialise in AI, crypto and web3 ecosystems and thrive in remote environments. I'm particularly interested in engaging with innovative, non‑French tech companies that value clean practices and teamwork.
+I'm a senior backend-focused developer with 7+ years of professional experience building scalable web platforms and distributed systems.
+
+I primarily work with Node.js and TypeScript, with solid experience designing APIs, microservices, and data pipelines. Over the years, I have contributed to and led parts of transitions from monolithic architectures to event-driven microservices in production environments.
+
+I enjoy working on technically challenging products, especially around finance, data, and real-time systems. Recently, I have also been exploring Web3 ecosystems through personal projects.
+
+---
 
 ## 🚀 Technical Expertise
 
 ### Languages & Frameworks
-- **Primary:** TypeScript, JavaScript, Node.js  
-- **Frontend:** React, Vite, Next.js, Tailwind CSS  
-- **Backend:** Express, WebSocket, REST APIs  
-- **Python:** Data pipelines, AI integration, video processing  
-- **Blockchain:** Solidity basics, Web3.js, smart contract interaction
+
+* **Primary:** TypeScript, JavaScript, Node.js
+* **Frontend:** React, Vite, Next.js
+* **Backend:** Express, WebSocket, REST APIs
+* **Python (practical use):** data pipelines, automation, AI integrations
+* **Blockchain (exploratory):** Web3.js, Solidity basics
 
 ### DevOps & Infrastructure
-- **Cloud:** AWS (ECS Fargate, DynamoDB, CloudWatch), Docker, microservices architecture  
-- **CI/CD:** GitHub Actions, OIDC authentication  
-- **Testing:** Comprehensive suites of unit and integration tests:contentReference[oaicite:2]{index=2}
 
-### Financial, Trading & Web3 Tech
-- **Exchange APIs:** Bitget, Binance integration  
-- **Trading Systems:** Real‑time data ingestion, order execution, risk management  
-- **Crypto & Web3:** Blockchain integrations, wallet management, DeFi protocols  
-- **Portfolio Management:** Automated rebalancing and position tracking  
-- **Risk Controls:** Circuit breakers, rate limiting, position sizing
+* Docker, microservices architecture
+* AWS (ECS Fargate, CloudWatch)
+* GitHub Actions (CI/CD)
+* Unit & integration testing
 
-### AI & Automation
-- **LLMs & Agents:** GPT‑4/5, Gemini integration for automation and decision systems  
-- **Voice Synthesis:** ElevenLabs, OpenAI TTS  
-- **AI Automation:** Content generation, AI‑powered trading bots  
-- **Edge Technologies:** AI agents for trading, predictive analytics and autonomous systems
+### Finance & Real-Time Systems (project experience)
 
-## 🔭 Current Projects
+* Exchange API integrations (Bitget, Binance)
+* Real-time data ingestion and processing
+* Risk controls and rate limiting
+* Portfolio tracking and automation
 
-### [VirtualBrain & Financial Helper](https://github.com/thomasjamais/financial-helper)
-A production‑grade trading and portfolio management platform that harnesses AI and microservices to deliver real‑time insights and automated strategies. Written in TypeScript and deployed on AWS ECS Fargate:contentReference[oaicite:3]{index=3}.
+---
 
-**Tech Stack:** TypeScript, Express, React, Vite, AWS (ECS Fargate), pnpm workspaces  
-**Features:**
-- Multi‑exchange integration (Bitget, Binance)  
-- Real‑time balance, risk management and order execution  
-- AI‑powered portfolio rebalancing and trading decisions  
-- Comprehensive dashboard and API  
-- Policy‑driven workflows that are idempotent and secure
+## 🔭 Selected Projects
+
+### [Financial Helper](https://github.com/thomasjamais/financial-helper)
+
+Personal project focused on trading and portfolio management automation using a microservices approach.
+
+**Tech Stack:** TypeScript, Express, React, AWS, pnpm workspaces
+
+**Highlights:**
+
+* Multi-exchange integration (Bitget, Binance)
+* Real-time balance and order handling
+* Portfolio monitoring and automation workflows
+* Modular and scalable architecture
+
+---
 
 ### [Content Engine](https://github.com/thomasjamais/content-engine)
-A Node.js + Python pipeline that transforms diving videos into social‑ready vertical shorts. Includes scene detection, AI narration, voice synthesis and automated publishing.
+
+Node.js + Python pipeline that transforms long videos into short social-ready clips using AI tooling.
+
+**Key aspects:**
+
+* Scene detection
+* AI narration
+* Voice synthesis
+* Automated publishing pipeline
+
+---
 
 ### [Note That Expense](https://github.com/thomasjamais/note-that-expense-app)
-A mobile‑first expense tracking app focusing on clean UX and real‑time data management.
 
-## 💡 Development Philosophy
+Mobile-first expense tracking application focused on clean UX and structured data handling.
 
-- **Production‑first:** Building systems with strong error handling, monitoring and scalability:contentReference[oaicite:4]{index=4}.  
-- **Type safety:** Leveraging TypeScript for robust and self‑documenting code.  
-- **AI & crypto‑centric:** Using AI agents and blockchain technologies to innovate in trading and finance.  
-- **Remote & global:** Preferring fully remote collaborations worldwide with non‑French tech companies.  
-- **Clean architecture:** Domain‑driven design, clear separation of concerns and testable code.  
-- **Continuous learning:** Constantly exploring new tools, frameworks and methodologies.
+---
 
-## 📊 Key Accomplishments
+## 💡 Development Approach
 
-- Led the transition of a large application from monolithic to event‑driven microservices, improving scalability and reliability:contentReference[oaicite:5]{index=5}.  
-- Built production‑grade trading systems handling real‑time market data, orders and risk management.  
-- Integrated multiple cryptocurrency exchange APIs with robust error handling.  
-- Implemented AI‑driven portfolio rebalancing and trading bots.  
-- Designed and maintained monorepo architectures with shared libraries and services.  
-- Taught full‑stack development and mentored dozens of students across several institutions:contentReference[oaicite:6]{index=6}.
+* Production-oriented and reliability focused
+* Strong emphasis on TypeScript and maintainability
+* Clean architecture and separation of concerns
+* Pragmatic about tooling and trade-offs
+* Continuous learner, especially around backend scalability and distributed systems
 
-## 🌱 Currently Learning
+---
 
-- Advanced AWS services and serverless architectures.  
-- Smart contract development and DeFi protocols.  
-- Machine learning for financial market prediction.  
-- AI agents for autonomous trading strategies.  
-- High‑frequency trading optimisation.
+## 📊 Relevant Experience
 
-## 📫 How to Reach Me
+* Led parts of a migration from monolith to event-driven microservices
+* Built and maintained Node.js services in production
+* Integrated third-party financial and exchange APIs
+* Designed tested backend services and shared libraries
+* Former full-stack instructor and technical mentor
 
-- **LinkedIn:** [Thomas Jamais](https://www.linkedin.com/in/thomas-jamais-0968369a/)  
-- **GitHub:** [@thomasjamais](https://github.com/thomasjamais)  
-- **Email:** via LinkedIn
+---
+
+## 🌱 Currently Exploring
+
+* Advanced cloud patterns (AWS)
+* Web3 and smart contract ecosystems
+* AI-assisted automation workflows
+* Distributed system reliability patterns
+
+---
+
 
 ## ⚡ Fun Facts
 
@@ -91,6 +111,15 @@ A mobile‑first expense tracking app focusing on clean UX and real‑time data 
 
 ---
 
-💼 **Currently collaborating with VirtualBrain**  
+
+## 📫 Contact
+
+* **LinkedIn:** https://www.linkedin.com/in/thomas-jamais-0968369a/
+* **GitHub:** https://github.com/thomasjamais
+* **Email:** thomas.jamais95@gmail.com
+---
+
+⚡ Always interested in well-built systems, clean engineering cultures, and technically ambitious teams.
+
 🌍 **Seeking fully remote opportunities with international, non‑French tech companies**  
 🤝 **Open to consulting roles, partnerships and innovative projects in AI, crypto and web3**
